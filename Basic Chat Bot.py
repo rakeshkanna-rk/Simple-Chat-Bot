@@ -7,8 +7,10 @@ and a Decent GUI with Tkinter.
 '''
 username: Rakesh Kanna
 author: @rakeshkanna-rk
-published in github.com 
+VERSION: V1.0.0
+published at https://github.com/rakeshkanna-rk
 '''
+
 
 import random
 import tkinter as tk
