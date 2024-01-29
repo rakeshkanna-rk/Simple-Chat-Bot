@@ -4,6 +4,11 @@ and Google Searchusing Web Scraping methon with Beautiful Soup,
 and a Decent GUI with Tkinter.
 '''
 
+'''
+username: Rakesh Kanna
+author: @rakeshkanna-rk
+published in github.com 
+'''
 
 import random
 import tkinter as tk
