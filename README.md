@@ -3,8 +3,8 @@
 **A Simple Chat Bot with a Mulit-Response Generating using random.choice and Integrated Google Search using Web Scraping methon with Beautiful Soup, and a Decent GUI with Tkinter**
 
 
-VERSION `V1.0.0`
-AUTHOR `[@rakeshkanna-rk](https://github.com/rakeshkanna-rk)`
+VERSION `V1.0.0`  
+AUTHOR [@rakeshkanna-rk](https://github.com/rakeshkanna-rk)
 
 ### Set up your environment:
   
